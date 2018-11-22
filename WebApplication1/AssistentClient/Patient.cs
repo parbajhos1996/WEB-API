@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AssistentClient
+{
+    class Patient
+    {
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public string TajNumber { get; set; }
+        public string Complaint { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Name} - {Address} - {TajNumber} - {Complaint}";
+        }
+    }
+}

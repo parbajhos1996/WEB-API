@@ -1,0 +1,15 @@
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient.csprojAssemblyReference.cache
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\MainWindow.g.cs
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\App.g.cs
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient_MarkupCompile.cache
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient_MarkupCompile.lref
+c:\users\adam\source\repos\WebApplication1\AssistentClient\bin\Debug\AssistentClient.exe.config
+c:\users\adam\source\repos\WebApplication1\AssistentClient\bin\Debug\AssistentClient.exe
+c:\users\adam\source\repos\WebApplication1\AssistentClient\bin\Debug\AssistentClient.pdb
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\MainWindow.baml
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient.g.resources
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient.Properties.Resources.resources
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient.csproj.GenerateResource.cache
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient.csproj.CoreCompileInputs.cache
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient.exe
+c:\users\adam\source\repos\WebApplication1\AssistentClient\obj\Debug\AssistentClient.pdb
